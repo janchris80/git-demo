@@ -1,6 +1,8 @@
 <?php
 
-echo "first line";
+
+echo "first line with";
+echo "edited in hotfix branch";
 
 echo "added new line from develop branch";
 
