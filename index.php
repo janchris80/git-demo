@@ -1,3 +1,4 @@
 <?php
 
-echo "first line";
+echo "first line with";
+echo "edited in hotfix branch";
